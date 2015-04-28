@@ -1,0 +1,32 @@
+23/04/2013 15:34:22 - New match 11348965 has started
+23/04/2013 15:36:04 - Joao killed Nick using M16
+23/04/2013 15:36:04 - Renan killed Joao using M16
+23/04/2013 15:36:04 - Roman killed Daniel using M16
+23/04/2013 15:36:33 - <WORLD> killed Nick by DROWN
+23/04/2013 15:36:04 - Roman killed Nick using M16
+23/04/2013 15:36:33 - <WORLD> killed Joao by DROWN
+23/04/2013 15:36:04 - Daniel killed Roman using M16
+23/04/2013 15:36:04 - Roman killed Nick using M16
+23/04/2013 15:36:33 - <WORLD> killed Roman by DROWN
+23/04/2013 15:36:33 - <WORLD> killed Joao by DROWN
+23/04/2013 15:39:22 - Match 11348965 has ended
+23/04/2013 15:34:22 - New match 12348965 has started
+23/04/2013 15:36:04 - Raniel killed Nick using M16
+23/04/2013 15:36:04 - Renan killed Joao using M16
+23/04/2013 15:36:04 - Antonio killed Daniel using M16
+23/04/2013 15:36:33 - <WORLD> killed Nick by DROWN
+23/04/2013 15:36:04 - Roman killed Nick using M16
+23/04/2013 15:36:33 - <WORLD> killed Antonio by DROWN
+23/04/2013 15:36:04 - Daniel killed Roman using M16
+23/04/2013 15:36:33 - <WORLD> killed Joao by DROWN
+23/04/2013 15:39:22 - Match 12348965 has ended
+23/04/2013 15:34:22 - New match 12348965 has started
+23/04/2013 15:36:04 - Amilton killed Nick using M16
+23/04/2013 15:36:04 - Renan killed Joao using M16
+23/04/2013 15:36:04 - Antonio killed Daniel using M16
+23/04/2013 15:36:33 - <WORLD> killed Joao by DROWN
+23/04/2013 15:36:04 - Roman killed Nick using M16
+23/04/2013 15:36:33 - <WORLD> killed Antonio by DROWN
+23/04/2013 15:36:04 - Daniel killed Amilton using M16
+23/04/2013 15:36:33 - <WORLD> killed Joao by DROWN
+23/04/2013 15:39:22 - Match 12348965 has ended
